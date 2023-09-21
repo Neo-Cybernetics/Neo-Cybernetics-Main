@@ -22,7 +22,7 @@ Neo-Cybernetics seeks to:
 
 ## Getting Involved
 
-Neo-Cybernetics thrives on collective effort. Engage, contribute, and shape the future with us. For contribution guidelines, please visit this link. If you wish to discuss topics, join the Discussion Forum.
+Neo-Cybernetics thrives on collective effort. Engage, contribute, and shape the future with us. For contribution guidelines, please visit this link. If you wish to discuss topics, we invite you to join the Discussion Forum here on Github.
 
 ## Feedback and Suggestions
 Your insights are invaluable to us. If you have suggestions, critiques, or ideas, please use the Discussions area of this repository.
