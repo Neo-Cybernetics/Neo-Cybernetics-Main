@@ -54,7 +54,7 @@ They are:
 
 As you explore the streams, these associations serve as beacons, guiding you through the intertwining paths of understanding, harmonizing, and evolving within the realm of Neo-Cybernetics.
 
-For more information on the Neo-Cybernetics triad, see the [Neo-Cybernetic Triad document](Getting Started/Neo-Cybernetic_Triad.md).
+For more information on the Neo-Cybernetics triad, see the [Neo-Cybernetic Triad document](../Getting Started/Neo-Cybernetic_Triad.md).
 
 ### Systemic Understanding [Understand]
 
