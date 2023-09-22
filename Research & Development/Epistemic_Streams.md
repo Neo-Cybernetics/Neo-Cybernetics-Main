@@ -54,7 +54,7 @@ They are:
 
 As you explore the streams, these associations serve as beacons, guiding you through the intertwining paths of understanding, harmonizing, and evolving within the realm of Neo-Cybernetics.
 
-For more information on the Neo-Cybernetics triad, see the [Neo-Cybernetic Triad document](https://github.com/Deltabit02/Neo-Cybernetics/blob/648e497c10522fa005dbc3117014192ab6d97ff6/Research%20%26%20Development/Epistemic_Streams.md).
+For more information on the Neo-Cybernetics triad, see the [Neo-Cybernetic Triad document](https://github.com/Deltabit02/Neo-Cybernetics/blob/main/Getting%20Started/Neo-Cybernetic_Triad.md).
 
 ### Systemic Understanding [Understand]
 
