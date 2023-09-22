@@ -14,6 +14,7 @@ Neo-Cybernetics seeks to:
 ## Repository Structure
 
 - Getting Started: An introduction to Neo-Cybernetics, its relevance, and its core principles and commitments.
+- Research & Development: An overview of the ongoing intellectual efforts and practical advancements within Neo-Cybernetics.
 - Frameworks: Conceptual tools and models foundational to Neo-Cybernetics, guiding systemic understanding and applications.
 - Guides: Comprehensive guides on various Neo-Cybernetic topics and methodologies.
 - Reference: Glossary, frameworks, and detailed references related to the discipline.
