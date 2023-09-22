@@ -46,65 +46,65 @@ Below is a list of epistemic streams identified so far in the Neo-Cybernetic Com
 
 They are:
 
-**Understand**: Denotes a focus on comprehensive comprehension of systems, emphasizing the need to grasp their dynamics, context, and overarching intricacies.
+- **Understand**: Denotes a focus on comprehensive comprehension of systems, emphasizing the need to grasp their dynamics, context, and overarching intricacies.
 
-**Harmonize**: Indicates the stream's commitment to ethical synthesis of knowledge, societal values, and ecological imperatives, aiming for a unified and constructive approach.
+- **Harmonize**: Indicates the stream's commitment to ethical synthesis of knowledge, societal values, and ecological imperatives, aiming for a unified and constructive approach.
 
-**Evolve**: Signifies an emphasis on the adaptability and forward progression of systems, acknowledging the dynamism of our world and the importance of proactive evolution.
+- **Evolve**: Signifies an emphasis on the adaptability and forward progression of systems, acknowledging the dynamism of our world and the importance of proactive evolution.
 
 As you explore the streams, these associations serve as beacons, guiding you through the intertwining paths of understanding, harmonizing, and evolving within the realm of Neo-Cybernetics.
 
-For more information on the Neo-Cybernetics triad, see the [Neo-Cybernetic Triad document](Getting Started/Neo-Cybernetic Triad.md).
+For more information on the Neo-Cybernetics triad, see the [Neo-Cybernetic Triad document](Getting Started/Neo-Cybernetic_Triad.md).
 
-**Systemic Understanding**
-[Understand]
+### Systemic Understanding [Understand]
+
 Delving into the nature, properties, and interrelations of systems, striving for a comprehensive understanding of their structures, dynamics, and complexities.
 
-**Emergence & Adaptation**
-[Evolve]
+### Emergence & Adaptation [Evolve]
+
 Investigating how new properties and behaviors arise within systems and how they adapt to environmental changes and challenges.
 
-**Feedback Mechanisms**
-[Understand]
+### Feedback Mechanisms [Understand]
+
 Deepening the understanding of feedback loops, their roles in self-regulation, and their influence on system stability and change.
 
-**Evolutionary Trajectories**
-[Evolve]
+### Evolutionary Trajectories [Evolve]
+
 Charting the evolutionary paths of systems, from their inception and growth to their maturity and eventual decline or transformation.
 
-**Boundary Phenomena**
-[Understand]
+### Boundary Phenomena [Understand]
+
 Investigating the nature, permeability, and significance of system boundaries, and how they demarcate and interface with surrounding environments.
 
-**Autopoiesis and Cognition**
-[Understand, Evolve]
+### Autopoiesis and Cognition [Understand, Evolve]
+
 Deepening the study of self-producing and self-maintaining systems and how they tie into cognitive processes.
 
-**Observer-System Interplay**
-[Understand, Harmonize]
+### Observer-System Interplay [Understand, Harmonize]
+
 Exploring the reciprocal relationship between systems and their observers, focusing on perception, bias, and the act of observation itself.
 
-**Communication & Data Dynamics**
-[Understand]
+### Communication & Data Dynamics [Understand]
+
 Studying the transmission and transformation of information within and between systems, and the impact of these processes on system behavior.
 
-**Complexity & Non-linearity**
-[Understand, Evolve]
+### Complexity & Non-linearity [Understand, Evolve]
+
 Delving into the intricacies of complex systems, their non-linear behaviors, and the challenges and opportunities they present.
 
-**Cybernetic Ethics**
-[Harmonize]
+### Cybernetic Ethics [Harmonize]
+
 Navigating the moral imperatives of systemic designs, ensuring they align with the best interests of humanity and nature.
 
-**Resilient System Architectures**
-[Evolve, Harmonize]
+### Resilient System Architectures [Evolve, Harmonize]
+
 Researching and crafting systems that can withstand challenges, learn, and grow stronger in the face of adversities.
 
-**Future Predictive Systems**
-[Evolve]
+### Future Predictive Systems [Evolve]
+
 Forecasting and predicting future challenges and shifts, ensuring that our systems are ready and adaptable for what lies ahead.
 
-**Global-Local Dynamics**
-[Understand, Harmonize]
+### Global-Local Dynamics [Understand, Harmonize]
+
 Investigating the balance between global forces and local realities, ensuring that systemic solutions are both globally informed and locally relevant.
 
