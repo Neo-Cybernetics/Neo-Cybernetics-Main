@@ -1,0 +1,35 @@
+﻿Term,Definition
+Adaptation,The capability of a system to adjust its internal structure or behavior to fit environmental challenges.
+Agent,"An autonomous entity that can make decisions based on their own perceptions, and act upon its environment to achieve specific goals or purposes. Agents can be individuals, groups, natural or synthetic entities, and their actions can be influenced by both internal components and external conditions."
+Autopoiesis,"A term primarily related to living systems, indicating the self-producing and self-maintaining nature of such systems."
+Boundaries,"Every system has boundaries that separate it from its environment. However, these boundaries can be permeable, allowing exchanges."
+Circular Causality,"This concept diverges from linear causality, where one event directly leads to another. In circular causality, feedback loops exist such that cause and effect may be interchanged, leading to patterns where an effect can also influence its cause, creating cyclical patterns of behavior."
+Co-Evolution,The simultaneous evolution of two or more entities that influence each other's development.
+Complexity,"The attribute of systems marked by intricate relationships, dependencies, and interactions between their components. Such systems often exhibit emergent properties and behaviors, which are challenging to anticipate or model based solely on an understanding of individual elements."
+Communication,"The act of transmitting, conveying, sharing, or exchanging data, information, ideas, or feelings between entities."
+Consensus,"An agreement or unified understanding reached by a group, typically after discussions or negotiations, where members align on a particular decision or perspective."
+Cybernetics,"An interdisciplinary study of systems' structures, constraints, and possibilities, bridging the gap between animate and inanimate systems. It focuses on control, regulation, and communication within and between diverse systems."
+Data,"Unprocessed and uninterpreted facts, figures, symbols, or observations that can manifest in various forms."
+Emergence,A phenomenon wherein the combined actions and interactions of individual components within a system give rise to collective behaviors or properties that cannot be easily deduced from studying each part in isolation.
+Energy,"The capacity to do work or cause physical change, existing in various forms such as potential, kinetic, thermal, electrical, chemical, nuclear, etc."
+Entropy,"In thermodynamics, it relates to the degree of disorder or randomness in a system. In information theory, it deals with the uncertainty of information."
+Equifinality,"The principle that in open systems, a given end state can be reached from different initial conditions and in various ways."
+Eigenbehaviors,Characteristic patterns of behavior that a system naturally gravitates towards over time.
+Feedback Loops,Cyclic processes within systems that facilitate self-regulation by monitoring and adjusting based on specific outputs or results.
+Flow,"The movement or transfer of resources, information, energy, or matter between parts of a system or between multiple systems."
+Hierarchy,A structured arrangement of systems with entities as part of larger wholes and containing smaller components within.
+Heterarchy,A system of organization where elements are unranked or possess the potential to be ranked in multiple ways.
+Holacracy,"A method of decentralized management and organizational governance, emphasizing self-organizing teams over top-down hierarchy."
+Holonomy,The idea that a system's properties arise not just from its parts but from interactions among those parts.
+Homeostasis,"A self-regulating process by which a system actively adjusts its internal conditions to maintain stability, even when faced with external disturbances."
+Hypercycles,A model explaining the self-organization and evolution of primitive life forms through interconnected self-replicating units.
+Industry 5.0,"The fifth phase in industrial development, emphasizing collaboration between humans and advanced technologies."
+Information,"Processed and organized data that adds meaning and relevance, serving as the foundation for acquiring knowledge."
+Matter,"Physical substance with mass and volume, distinct from energy."
+Negentropy,"In thermodynamics, it refers to the degree of order or organization in a system. In information theory, it describes the measure of orderliness or predictability of a set of data."
+Network,"A system of interconnected nodes and links, emphasizing relationships and information flow."
+Non-linearity,"A characteristic of systems where inputs and outputs aren't strictly proportional, often leading to unexpected outcomes."
+Observer,"The entity that observes, interprets, and engages with a system, influenced by subjectivity and context."
+Society 5.0,"The next stage of societal evolution, integrating advanced technologies into every facet of human life for a human-centric society."
+Swarm Intelligence,"Collective behavior in self-organized systems, achieving complex tasks without centralized control."
+Wicked Problems,"Complex challenges with no clear solutions due to interdependencies, often requiring interdisciplinary approaches."
