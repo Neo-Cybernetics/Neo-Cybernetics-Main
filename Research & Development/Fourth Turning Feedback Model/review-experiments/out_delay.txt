@@ -1,0 +1,76 @@
+== 1a. Gamma (Erlang) kernel, mean 21y: linear Hopf threshold and period ==
+n, sd(yr), kτ_Hopf, P/τ at Hopf
+1 21.0 inf -
+2 14.8 4.0 3.142
+3 12.1 2.667 3.628
+4 10.5 2.274 3.792
+6 8.6 1.979 3.908
+8 7.4 1.858 3.948
+12 6.1 1.751 3.977
+16 5.2 1.702 3.987
+32 3.7 1.634 3.997
+64 2.6 1.602 3.999
+
+== 1b. Nonlinear runs with gamma kernel, mean 21 ==
+n= 1 sd=21.0 kτ=1.8 : decays (no sustained cycle)
+n= 1 sd=21.0 kτ=2.5 : decays (no sustained cycle)
+n= 1 sd=21.0 kτ=4.0 : decays (no sustained cycle)
+n= 1 sd=21.0 kτ=8.0 : decays (no sustained cycle)
+n= 2 sd=14.8 kτ=1.8 : decays (no sustained cycle)
+n= 2 sd=14.8 kτ=2.5 : decays (no sustained cycle)
+n= 2 sd=14.8 kτ=4.0 : P=66.3  H/A/U/C = 16.6/16.6/16.6/16.6  amp=0.47
+n= 2 sd=14.8 kτ=8.0 : P=66.8  H/A/U/C = 16.7/16.6/16.7/16.7  amp=5.12
+n= 4 sd=10.5 kτ=1.8 : decays (no sustained cycle)
+n= 4 sd=10.5 kτ=2.5 : P=79.8  H/A/U/C = 20.0/19.9/20.0/20.0  amp=0.92
+n= 4 sd=10.5 kτ=4.0 : P=80.1  H/A/U/C = 20.1/19.9/20.1/20.0  amp=2.88
+n= 4 sd=10.5 kτ=8.0 : P=80.7  H/A/U/C = 20.2/20.1/20.2/20.2  amp=6.89
+n= 8 sd= 7.4 kτ=1.8 : P=83.8  H/A/U/C = 20.8/21.1/20.8/21.1  amp=0.06
+n= 8 sd= 7.4 kτ=2.5 : P=83.1  H/A/U/C = 20.8/20.7/20.8/20.8  amp=1.50
+n= 8 sd= 7.4 kτ=4.0 : P=83.3  H/A/U/C = 20.9/20.8/20.9/20.8  amp=3.20
+n= 8 sd= 7.4 kτ=8.0 : P=83.7  H/A/U/C = 20.9/20.9/21.0/21.0  amp=7.25
+n=16 sd= 5.2 kτ=1.8 : P=83.8  H/A/U/C = 21.0/21.0/21.0/21.0  amp=0.54
+n=16 sd= 5.2 kτ=2.5 : P=83.9  H/A/U/C = 21.0/21.0/21.0/21.0  amp=1.65
+n=16 sd= 5.2 kτ=4.0 : P=84.0  H/A/U/C = 21.0/21.0/21.0/21.0  amp=3.28
+n=16 sd= 5.2 kτ=8.0 : P=84.1  H/A/U/C = 21.0/21.0/21.0/21.1  amp=7.31
+n=64 sd= 2.6 kτ=1.8 : P=84.1  H/A/U/C = 21.0/21.0/21.0/21.1  amp=0.75
+n=64 sd= 2.6 kτ=2.5 : P=84.1  H/A/U/C = 21.0/21.0/21.0/21.1  amp=1.72
+n=64 sd= 2.6 kτ=4.0 : P=84.1  H/A/U/C = 21.0/21.0/21.0/21.1  amp=3.30
+n=64 sd= 2.6 kτ=8.0 : P=84.1  H/A/U/C = 21.0/21.1/21.0/21.1  amp=7.32
+
+== 1c. Uniform (boxcar) kernel, mean 21 ==
+width ± 0 kτ=1.8 : P=84.2  H/A/U/C = 21.1/21.0/21.1/21.1  amp=0.80
+width ± 0 kτ=4.0 : P=84.2  H/A/U/C = 21.1/21.0/21.1/21.1  amp=3.31
+width ± 5 kτ=1.8 : P=84.2  H/A/U/C = 21.0/21.1/21.0/21.2  amp=0.73
+width ± 5 kτ=4.0 : P=84.2  H/A/U/C = 21.1/21.0/21.1/21.1  amp=3.31
+width ±10 kτ=1.8 : P=84.2  H/A/U/C = 21.0/21.1/21.0/21.2  amp=0.47
+width ±10 kτ=4.0 : P=84.2  H/A/U/C = 21.1/21.0/21.1/21.1  amp=3.29
+width ±15 kτ=1.8 : decays (no sustained cycle)
+width ±15 kτ=4.0 : P=84.2  H/A/U/C = 21.0/21.1/21.0/21.2  amp=3.22
+width ±20 kτ=1.8 : decays (no sustained cycle)
+width ±20 kτ=4.0 : P=84.2  H/A/U/C = 21.0/21.1/21.0/21.2  amp=3.00
+
+== 1d. 'Cohort' kernel: formative age ~ U(17,25), age of influence ~ U(40,70) ==
+delay mean 34.0 sd 9.0 range 15-53
+kτ=1.8 (τ=mean 34.0): P=136.0  H/A/U/C = 34.0/34.0/34.0/34.1  amp=0.49
+kτ=3.0 (τ=mean 34.0): P=136.0  H/A/U/C = 34.0/34.0/34.0/34.1  amp=2.22
+kτ=6.0 (τ=mean 34.0): P=136.0  H/A/U/C = 34.0/34.0/34.0/34.1  amp=5.30
+
+== 2. Asymmetric nonlinearity (single delay 21) ==
+rebuild x1.0 kτ=1.8: P=84.0  H/A/U/C = 21.0/21.0/21.0/21.0  amp=0.79  mean x=0.00
+rebuild x1.0 kτ=3.0: P=84.0  H/A/U/C = 21.0/21.0/21.0/21.0  amp=2.28  mean x=-0.00
+rebuild x1.5 kτ=1.8: P=85.2  H/A/U/C = 21.0/26.2/21.0/17.0  amp=1.61  mean x=0.25
+rebuild x1.5 kτ=3.0: P=87.1  H/A/U/C = 21.0/29.4/21.0/15.7  amp=3.72  mean x=0.59
+rebuild x2.0 kτ=1.8: P=88.7  H/A/U/C = 21.0/32.4/21.0/14.3  amp=2.30  mean x=0.50
+rebuild x2.0 kτ=3.0: P=93.4  H/A/U/C = 21.0/38.5/21.0/12.9  amp=5.14  mean x=1.26
+rebuild x3.0 kτ=1.8: P=99.2  H/A/U/C = 21.0/45.9/21.0/11.3  amp=3.59  mean x=1.07
+rebuild x3.0 kτ=3.0: P=109.1  H/A/U/C = 21.0/57.2/21.0/9.9  amp=7.91  mean x=2.49
+asym. slope below 0 x0.5 kτ=1.8: decays (no sustained cycle)
+asym. slope below 0 x2.0 kτ=1.8: P=84.3  H/A/U/C = 21.0/25.2/21.0/17.1  amp=1.41
+offset set-point 0.2:  P=84.0  H/A/U/C = 24.6/24.6/17.4/17.5  amp=0.99
+
+== 2b. Add an instantaneous term: dx/dt = -a x(t) - k tanh(x(t-τ)) ==
+a=-0.02/yr kτ=2.5: P=108.6  H/A/U/C = 24.5/29.8/24.5/29.8  amp=2.32
+a=+0.00/yr kτ=2.5: P=84.0  H/A/U/C = 21.0/21.0/21.0/21.0  amp=1.73
+a=+0.01/yr kτ=2.5: P=77.8  H/A/U/C = 19.8/19.1/19.8/19.1  amp=1.49
+a=+0.02/yr kτ=2.5: P=73.2  H/A/U/C = 18.8/17.8/18.8/17.8  amp=1.27
+a=+0.05/yr kτ=2.5: P=64.5  H/A/U/C = 16.4/15.8/16.4/15.9  amp=0.60
