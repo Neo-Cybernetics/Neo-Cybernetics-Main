@@ -1,0 +1,39 @@
+Observed year-level agreement 1900-2025: 0.730 (post-1929 0.866, pre-1929 0.276)
+UK 'Unclear' years: 14 of 126
+
+Null A: agreement when the S-H timeline is shifted by s years
+  shift -30: all 0.016  post-1929 0.000
+  shift -20: all 0.151  post-1929 0.113
+  shift -15: all 0.302  post-1929 0.309
+  shift -10: all 0.460  post-1929 0.567
+  shift  -7: all 0.540  post-1929 0.691
+  shift  -5: all 0.619  post-1929 0.773
+  shift  -3: all 0.675  post-1929 0.825
+  shift  +0: all 0.730  post-1929 0.866
+  shift  +3: all 0.651  post-1929 0.732
+  shift  +5: all 0.587  post-1929 0.629
+  shift  +7: all 0.516  post-1929 0.526
+  shift +10: all 0.397  post-1929 0.371
+  shift +15: all 0.230  post-1929 0.165
+  shift +20: all 0.095  post-1929 0.041
+  shift +30: all 0.000  post-1929 0.000
+  best shift (all years): +0 -> 0.730
+  best shift (post-1929): -1 -> 0.866
+
+Null B (S-H empirical turning lengths): mean agreement 0.220; P(null >= obs all)=0.0008; P(null >= obs post-1929)=0.0006; 95th pct all 0.595
+
+Null B (fixed 21y): mean agreement 0.225; P(null >= obs all)=0.0000; P(null >= obs post-1929)=0.0000; 95th pct all 0.627
+
+Null B (uniform 15-28y): mean agreement 0.224; P(null >= obs all)=0.0008; P(null >= obs post-1929)=0.0015; 95th pct all 0.611
+
+Null C: mechanical shock-following timeline (crisis = war/emergency years; then 19y High, 10y Awakening, Unraveling):
+  agreement with UK coding: all 0.873 post-1929 0.907   | agreement with S-H: all 0.738
+
+Indicators by UK-coded stage (median strike days lost, thousands; two-party share range):
+  High       n_years= 19 strikes median    2433  two-party (87.6, 96.8)
+  Awakening  n_years= 24 strikes median    3784  two-party (87.5, 95.3)
+  Unraveling n_years= 29 strikes median    1039  two-party (67.6, 80.8)
+  Crisis     n_years= 40 strikes median    1373  two-party (57.4, 91.3)
+  Unclear    n_years= 14 strikes median    8356  two-party (68.2, 80.1)
+
+Years with two-party share >= 85 that are NOT coded High: ['1900', '1906', '1910.1', '1910.9', '1931', '1935', '1964', '1966', '1970']

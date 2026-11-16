@@ -1,0 +1,8 @@
+kτ=1.4 beta=0.0: no sustained cycle / runaway
+kτ=1.4 beta=0.5: no sustained cycle / runaway
+kτ=1.4 beta=1.0: no sustained cycle / runaway
+kτ=1.4 beta=2.0: no sustained cycle / runaway
+kτ=1.8 beta=0.0: P=84.0 H/A/U/C=21.0/21.0/21.0/21.0 min x=-0.79 mean x=-0.01
+kτ=1.8 beta=0.5: P=119.7 H/A/U/C=21.0/20.6/34.2/43.9 min x=-1.26 mean x=-0.37
+kτ=1.8 beta=1.0: no sustained cycle / runaway
+kτ=1.8 beta=2.0: no sustained cycle / runaway
