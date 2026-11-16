@@ -1,0 +1,50 @@
+== 3a. Essay statistic (kτ=1.4, seed 5) vs smoothing window and gap filter ==
+smooth  0.05y filter > 0y: n=1997 median=   0.7 P10=   0.1 P90=  41.9
+smooth  0.05y filter > 5y: n= 513 median=  36.7 P10=   7.0 P90=  68.3
+smooth  0.05y filter >15y: n= 386 median=  42.1 P10=  23.6 P90=  79.6
+smooth  0.05y filter >25y: n= 337 median=  44.4 P10=  30.8 P90=  81.6
+smooth  0.05y hysteresis merge: n= 320 median=  71.6 P10=   7.9 P90= 103.0
+smooth  2.00y filter > 0y: n= 353 median=  59.0 P10=   7.1 P90=  98.7
+smooth  2.00y filter > 5y: n= 334 median=  66.0 P10=   9.1 P90=  99.3
+smooth  2.00y filter >15y: n= 280 median=  74.2 P10=  30.6 P90= 101.1
+smooth  2.00y filter >25y: n= 263 median=  77.4 P10=  36.5 P90= 101.4
+smooth  2.00y hysteresis merge: n= 239 median=  86.0 P10=  40.6 P90= 112.2
+smooth  5.00y filter > 0y: n= 275 median=  80.8 P10=  19.3 P90= 105.4
+smooth  5.00y filter > 5y: n= 272 median=  80.9 P10=  20.4 P90= 105.4
+smooth  5.00y filter >15y: n= 252 median=  82.0 P10=  35.4 P90= 106.2
+smooth  5.00y filter >25y: n= 240 median=  83.5 P10=  42.2 P90= 107.4
+smooth  5.00y hysteresis merge: n= 220 median=  88.9 P10=  64.4 P90= 114.1
+smooth 10.00y filter > 0y: n= 243 median=  84.9 P10=  41.8 P90= 110.4
+smooth 10.00y filter > 5y: n= 243 median=  84.9 P10=  41.8 P90= 110.4
+smooth 10.00y filter >15y: n= 236 median=  86.4 P10=  47.9 P90= 111.0
+smooth 10.00y filter >25y: n= 231 median=  86.6 P10=  51.1 P90= 111.4
+smooth 10.00y hysteresis merge: n= 211 median=  89.9 P10=  69.0 P90= 124.9
+smooth 20.00y filter > 0y: n= 223 median=  88.6 P10=  59.7 P90= 115.4
+smooth 20.00y filter > 5y: n= 223 median=  88.6 P10=  59.7 P90= 115.4
+smooth 20.00y filter >15y: n= 223 median=  88.6 P10=  59.7 P90= 115.4
+smooth 20.00y filter >25y: n= 222 median=  88.6 P10=  60.0 P90= 115.5
+smooth 20.00y hysteresis merge: n= 206 median=  90.3 P10=  69.0 P90= 130.7
+
+== 3b. Same statistic on processes with NO delayed loop and NO oscillatory mode ==
+OU red noise, T= 10y, 10y smooth, >15 filter: n= 367 median=  46.2 P10=  21.6 P90=  94.7
+                         hysteresis merge: n= 336 median=  50.7 P10=  22.2 P90= 109.5
+OU red noise, T= 20y, 10y smooth, >15 filter: n= 282 median=  56.2 P10=  24.4 P90= 137.6
+                         hysteresis merge: n= 234 median=  69.9 P10=  27.7 P90= 159.8
+OU red noise, T= 40y, 10y smooth, >15 filter: n= 216 median=  69.7 P10=  26.9 P90= 199.8
+                         hysteresis merge: n= 173 median=  90.8 P10=  33.1 P90= 222.7
+OU red noise, T= 80y, 10y smooth, >15 filter: n= 139 median= 111.6 P10=  31.8 P90= 283.0
+                         hysteresis merge: n= 107 median= 142.1 P10=  42.6 P90= 388.3
+delayed loop kτ=0.20 (non-oscillatory, <1/e), >15: n= 112 median= 125.8 P10=  40.1 P90= 379.6
+delayed loop kτ=0.35 (non-oscillatory, <1/e), >15: n= 162 median=  97.0 P10=  30.6 P90= 242.0
+
+== 3c. Spectral peak of the essay's noisy model ==
+kτ=1.00 peak period 107.8y, half-power band 102-146y, Q=3.2
+kτ=1.40 peak period 89.0y, half-power band 84-102y, Q=5.1
+kτ=1.55 peak period 89.0y, half-power band 85-93y, Q=11.5
+
+== 3d. Can ~590 years (7 cycles) tell a noisy limit cycle from a noise-driven damped loop? ==
+damped+noise  CV: median 0.19 IQR 0.13-0.27
+limit cyc+noise CV: median 0.15 IQR 0.10-0.21
+best single-threshold classification accuracy 0.60 at CV=0.21
+Strauss-Howe saeculum gaps (High starts): [107 110  90  71  81] CV=0.16
+  fraction of damped windows with CV >= that: 0.60; of limit-cycle windows: 0.44
